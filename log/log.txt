@@ -715,3 +715,33 @@
 18:05:39.223 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBase() / SUCCESSFUL
 18:05:39.226 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
 18:05:39.228 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+20:37:29.123 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+20:37:29.160 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+20:37:29.180 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0() / {}
+20:37:29.225 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+20:37:29.229 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+20:37:29.234 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+20:44:17.353 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+20:44:17.394 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+20:44:17.417 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0() / {}
+20:44:17.446 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / FAILED
+20:44:17.456 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+20:44:17.459 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+20:47:22.996 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+20:47:23.036 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+20:47:23.057 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0() / {}
+20:47:23.087 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / FAILED
+20:47:23.097 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+20:47:23.102 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+20:47:44.839 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+20:47:44.880 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+20:47:44.898 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0() / {}
+20:47:44.928 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / FAILED
+20:47:44.939 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+20:47:44.943 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+20:48:01.015 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+20:48:01.057 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+20:48:01.082 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0() / {}
+20:48:01.115 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+20:48:01.119 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+20:48:01.124 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL

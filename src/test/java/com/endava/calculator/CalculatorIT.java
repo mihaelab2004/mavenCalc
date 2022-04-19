@@ -6,6 +6,7 @@ import com.endava.calculator.expert.Expert;
 import com.endava.calculator.expert.ExpertOperations;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Tag;
@@ -19,6 +20,9 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 
 //@ExtendWith(TestReporterExtension.class)
@@ -141,10 +145,11 @@ public class CalculatorIT {
         // Given
 
         //When
-        long result = basic.multiply(3, 0);
+        Long result = basic.multiply(3, 0);
 
         //Then
-        System.out.println(result);
+        assertEquals(0L, result);
+        assertTrue(result.equals(0L));
     }
 
     @Test
