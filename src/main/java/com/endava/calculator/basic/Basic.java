@@ -5,7 +5,7 @@ public class Basic implements BasicOperations {
     protected int decimals;
 
     public Basic() {
-        decimals = 10;
+        decimals = 2;
     }
 
     public Basic(int decimals) {
