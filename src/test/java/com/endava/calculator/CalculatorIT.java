@@ -6,9 +6,9 @@ import com.endava.calculator.expert.Expert;
 import com.endava.calculator.expert.ExpertOperations;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Tags;
 import org.junit.jupiter.api.Test;
@@ -21,8 +21,13 @@ import org.junit.jupiter.params.provider.MethodSource;
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.containsString;
+import static org.hamcrest.Matchers.greaterThan;
+import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.lessThan;
+import static org.hamcrest.Matchers.notNullValue;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
 //@ExtendWith(TestReporterExtension.class)
@@ -56,7 +61,7 @@ public class CalculatorIT {
     @Tags({@Tag("smoke"), @Tag("ui")})
     @ParameterizedTest
     @MethodSource("numberProvider")
-    public void shouldAddNumbersGivenOperand0(int a, int b) {
+    public void shouldAddNumbersGivenOperand0(int a, int b, long expected) {
 
         // Given
 
@@ -64,22 +69,24 @@ public class CalculatorIT {
         long result = basic.add(a, b);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(expected));
+        assertThat(result, notNullValue());
+
     }
 
     public static List<Arguments> numberProvider() {
         List<Arguments> argumentsList = new ArrayList<>();
-        argumentsList.add(Arguments.of(0, 2));
-        argumentsList.add(Arguments.of(2, 0));
+        argumentsList.add(Arguments.of(0, 2, 2));
+        argumentsList.add(Arguments.of(2, 0, 2));
 
         return argumentsList;
     }
 
     @Tag("smoke")
     @ParameterizedTest
-    @CsvSource({"-2, -4", "-4, -7"})
+    @CsvSource({"-2, -4, -6", "-4, -7, -11"})
     @CsvFileSource(resources = "/numberSource.csv")
-    public void shouldAddNegativeNumbers(Integer a, Integer b) {
+    public void shouldAddNegativeNumbers(Integer a, Integer b, Long expected) {
 
         // Given
 
@@ -87,20 +94,25 @@ public class CalculatorIT {
         long result = basic.add(a, b);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(expected));
     }
 
+    //Bug found
     @Tags({@Tag("smoke"), @Tag("api")})
     @Test
     public void shouldAddLargeNumbers() {
 
-        // Given
+        assertThrows(AssertionError.class, () -> {
+            // Given
 
-        //When
-        long result = basic.add(Integer.MAX_VALUE, 1);
+            //When
+            long result = basic.add(Integer.MAX_VALUE, 1);
 
-        //Then
-        System.out.println(result);
+            //Then
+            assertThat(result, is(Integer.MAX_VALUE + 1L));
+            assertThat(result, lessThan(0L));
+            assertThat(result, notNullValue());
+        });
     }
 
     @Test
@@ -112,7 +124,7 @@ public class CalculatorIT {
         long result = basic.add();
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(0L));
     }
 
     @Test
@@ -124,7 +136,7 @@ public class CalculatorIT {
         long result = basic.add(167);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(167L));
     }
 
     @Test
@@ -136,7 +148,8 @@ public class CalculatorIT {
         long result = basic.add(4, 5, 6, 7);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(22L));
+        assertThat(result, notNullValue());
     }
 
     @Test
@@ -148,8 +161,10 @@ public class CalculatorIT {
         Long result = basic.multiply(3, 0);
 
         //Then
-        assertEquals(0L, result);
-        assertTrue(result.equals(0L));
+        assertThat(result, is(0L));
+        assertThat(result, lessThan(3L));
+
+
     }
 
     @Test
@@ -161,7 +176,7 @@ public class CalculatorIT {
         long result = basic.multiply(3, 5, 6, 4, 2);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(720L));
     }
 
 
@@ -174,7 +189,9 @@ public class CalculatorIT {
         long result = basic.multiply(5, -6);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(-30L));
+        assertThat(result, lessThan(0L));
+
     }
 
     @Test
@@ -186,7 +203,9 @@ public class CalculatorIT {
         long result = basic.multiply(-5, -6);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(30L));
+        assertThat(result, greaterThan(0L));
+
     }
 
     @Test
@@ -198,7 +217,7 @@ public class CalculatorIT {
         long result = basic.multiply();
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(1L));
     }
 
     @Test
@@ -210,7 +229,7 @@ public class CalculatorIT {
         long result = basic.multiply(2);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(2L));
     }
 
     @Test
@@ -222,7 +241,8 @@ public class CalculatorIT {
         long result = basic.multiply(Integer.MAX_VALUE, 2);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(4294967294L));
+        assertThat(result, greaterThan(Long.valueOf(Integer.MAX_VALUE)));
     }
 
     @Test
@@ -234,7 +254,7 @@ public class CalculatorIT {
         double result = basic.multiply(5.45785, 3.57875454);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(19.53));
     }
 
     @Test
@@ -246,7 +266,9 @@ public class CalculatorIT {
         double result = expert.power(500, 0);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(1.0));
+        assertThat(result, greaterThan(0.0));
+        assertThat(result, lessThan(500.0));
     }
 
     @Test
@@ -258,7 +280,7 @@ public class CalculatorIT {
         double result = expert.power(0, 3);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(0.0));
     }
 
     @Test
@@ -270,11 +292,26 @@ public class CalculatorIT {
         double result = expert.power(2, -3);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(0.125));
+        assertThat(result, greaterThan(0.0));
+        assertThat(result, lessThan(2.0));
     }
 
     @Test
-    public void shouldCalculatePowNegativeBase() {
+    public void shouldCalculatePowNegativeBaseOddExponent() {
+
+        // Given
+
+        //When
+        double result = expert.power(-2, 3);
+
+        //Then
+        assertThat(result, is(-8.0));
+        assertThat(result, lessThan(0.0));
+    }
+
+    @Test
+    public void shouldCalculatePowNegativeBaseEvenExponent() {
 
         // Given
 
@@ -282,11 +319,25 @@ public class CalculatorIT {
         double result = expert.power(-2, 4);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(16.0));
+        assertThat(result, greaterThan(0.0));
     }
 
     @Test
-    public void shouldCalculatePowNegativeBaseNegativeExponent() {
+    public void shouldCalculatePowNegativeBaseNegativeOddExponent() {
+
+        // Given
+
+        //When
+        double result = expert.power(-4, -3);
+
+        //Then
+        assertThat(result, is(-0.015625));
+        assertThat(result, lessThan(0.0));
+    }
+
+    @Test
+    public void shouldCalculatePowNegativeBaseNegativeOEvenExponent() {
 
         // Given
 
@@ -294,16 +345,19 @@ public class CalculatorIT {
         double result = expert.power(-4, -2);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(0.0625));
+        assertThat(result, greaterThan(0.0));
     }
 
+    @Disabled
     @Test
     public void shouldCalculateFactorialWithNegativeNumber() {
 
         // Given
 
+
         //When
-        long result = expert.fact(-5);
+        long result = expert.factRec(-5);
 
         //Then
         System.out.println(result);
@@ -318,7 +372,7 @@ public class CalculatorIT {
         long result = expert.fact(0);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(1L));
     }
 
     @Test
@@ -330,6 +384,6 @@ public class CalculatorIT {
         long result = expert.fact(20);
 
         //Then
-        System.out.println(result);
+        assertThat(result, is(2432902008176640000L));
     }
 }

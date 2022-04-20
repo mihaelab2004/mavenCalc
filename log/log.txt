@@ -745,3 +745,781 @@
 20:48:01.115 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
 20:48:01.119 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
 20:48:01.124 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:05:04.799 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+11:05:04.839 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+11:05:04.868 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers() / {}
+11:05:04.884 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+11:05:04.887 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+11:05:04.892 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:05:30.157 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+11:05:30.190 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+11:05:30.205 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers() / {}
+11:05:30.239 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / FAILED
+11:05:30.250 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+11:05:30.254 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:06:48.898 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+11:06:48.938 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+11:06:48.953 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers() / {}
+11:06:48.982 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / FAILED
+11:06:48.989 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+11:06:48.994 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:07:51.358 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter / {}
+11:07:51.395 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT / {}
+11:07:51.414 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers() / {}
+11:07:51.452 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+11:07:51.460 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+11:07:51.464 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:09:01.847 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+11:09:01.881 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+11:09:01.897 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers()
+11:09:01.926 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+11:09:01.928 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+11:09:01.931 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:35:45.196 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+11:35:45.214 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTest
+11:35:45.221 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+11:35:45.264 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+11:35:45.267 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTest / SUCCESSFUL
+11:35:45.270 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:36:13.588 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+11:36:13.605 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTest
+11:36:13.615 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+11:36:13.662 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / FAILED
+11:36:13.670 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTest / SUCCESSFUL
+11:36:13.676 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:37:07.316 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+11:37:07.336 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTest
+11:37:07.343 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+11:37:07.371 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+11:37:07.387 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTest / SUCCESSFUL
+11:37:07.392 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:58:55.668 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+11:58:55.690 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorITAssertJ
+11:58:55.703 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+11:58:55.802 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / SUCCESSFUL
+11:58:55.805 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorITAssertJ / SUCCESSFUL
+11:58:55.808 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:59:27.287 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+11:59:27.304 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorITAssertJ
+11:59:27.316 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+11:59:27.413 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / FAILED
+11:59:27.419 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorITAssertJ / SUCCESSFUL
+11:59:27.423 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+11:59:44.906 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+11:59:44.928 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorITAssertJ
+11:59:44.939 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+11:59:45.030 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / FAILED
+11:59:45.039 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorITAssertJ / SUCCESSFUL
+11:59:45.043 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:40:03.370 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:40:03.389 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTestAssertJ
+12:40:03.400 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+12:40:03.472 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+12:40:03.475 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTestAssertJ / SUCCESSFUL
+12:40:03.478 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:40:18.261 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:40:18.280 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTestAssertJ
+12:40:18.287 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+12:40:18.347 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+12:40:18.349 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTestAssertJ / SUCCESSFUL
+12:40:18.353 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:40:28.900 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:40:28.918 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTestAssertJ
+12:40:28.925 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+12:40:28.985 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+12:40:28.987 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTestAssertJ / SUCCESSFUL
+12:40:28.990 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:42:25.141 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:42:25.157 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTestAssertJ
+12:42:25.166 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+12:42:25.232 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+12:42:25.234 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTestAssertJ / SUCCESSFUL
+12:42:25.238 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:42:40.287 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:42:40.308 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTestAssertJ
+12:42:40.315 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+12:42:40.372 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+12:42:40.375 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTestAssertJ / SUCCESSFUL
+12:42:40.378 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:50:21.579 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:50:21.597 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTestAssertJ
+12:50:21.606 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+12:50:21.668 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+12:50:21.671 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTestAssertJ / SUCCESSFUL
+12:50:21.675 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:55:52.213 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:55:52.246 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+12:55:52.259 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+12:55:52.304 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+12:55:52.349 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+12:55:52.354 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+12:55:52.356 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+12:55:52.357 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+12:55:52.359 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+12:55:52.360 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:56:07.559 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:56:07.592 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+12:56:07.605 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+12:56:07.646 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 3
+12:56:07.689 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 3 / FAILED
+12:56:07.701 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+12:56:07.704 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+12:56:07.705 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+12:56:07.709 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+12:56:07.710 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:56:34.643 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:56:34.678 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+12:56:34.695 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+12:56:34.736 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+12:56:34.773 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+12:56:34.778 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 3
+12:56:34.783 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 3 / FAILED
+12:56:34.790 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+12:56:34.792 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+12:56:34.793 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:59:06.996 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:59:07.035 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+12:59:07.052 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands(Integer, Integer, Integer, Long)
+12:59:07.073 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands(Integer, Integer, Integer, Long) / FAILED
+12:59:07.096 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+12:59:07.099 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+12:59:18.701 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+12:59:18.741 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+12:59:18.759 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands(Integer, Integer, Integer, Long)
+12:59:18.778 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands(Integer, Integer, Integer, Long) / FAILED
+12:59:18.799 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+12:59:18.803 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:01:54.396 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:01:54.427 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:01:54.443 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNegativeNumbers(Integer, Integer, Long)
+13:01:54.513 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] -2, -4, -6
+13:01:54.563 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] -2, -4, -6 / SUCCESSFUL
+13:01:54.567 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] -4, -7, -12
+13:01:54.570 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] -4, -7, -12 / FAILED
+13:01:54.653 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [3] -2, -5, -7
+13:01:54.654 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [3] -2, -5, -7 / SUCCESSFUL
+13:01:54.656 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [4] -4, -8, -12
+13:01:54.658 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [4] -4, -8, -12 / SUCCESSFUL
+13:01:54.659 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNegativeNumbers(Integer, Integer, Long) / SUCCESSFUL
+13:01:54.661 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:01:54.662 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:02:18.459 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:02:18.505 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:02:18.526 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNegativeNumbers(Integer, Integer, Long)
+13:02:18.630 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] -2, -4, -6
+13:02:18.679 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] -2, -4, -6 / SUCCESSFUL
+13:02:18.683 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] -4, -7, -11
+13:02:18.685 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] -4, -7, -11 / SUCCESSFUL
+13:02:18.787 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [3] -2, -5, -7
+13:02:18.788 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [3] -2, -5, -7 / SUCCESSFUL
+13:02:18.790 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [4] -4, -8, -12
+13:02:18.791 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [4] -4, -8, -12 / SUCCESSFUL
+13:02:18.792 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNegativeNumbers(Integer, Integer, Long) / SUCCESSFUL
+13:02:18.795 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:02:18.796 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:10:25.235 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:10:25.269 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:10:25.287 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers()
+13:10:25.326 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / FAILED
+13:10:25.334 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:10:25.338 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:12:28.560 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:12:28.599 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:12:28.619 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers()
+13:12:28.658 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+13:12:28.661 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:12:28.668 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:34:06.843 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:34:06.875 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:34:06.887 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+13:34:06.924 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+13:34:06.973 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+13:34:06.978 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+13:34:06.980 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+13:34:06.981 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+13:34:06.987 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:34:06.988 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:35:11.037 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:35:11.067 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:35:11.080 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+13:35:11.119 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+13:35:11.163 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / FAILED
+13:35:11.176 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+13:35:11.178 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / FAILED
+13:35:11.182 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+13:35:11.185 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:35:11.187 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:38:31.263 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:38:31.308 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:38:31.329 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands(long)
+13:38:31.346 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands(long) / FAILED
+13:38:31.367 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:38:31.372 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:39:02.542 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:39:02.581 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:39:02.598 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands(long)
+13:39:02.617 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands(long) / FAILED
+13:39:02.640 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:39:02.644 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:39:39.711 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:39:39.748 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:39:39.764 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands()
+13:39:39.797 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands() / FAILED
+13:39:39.806 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:39:39.811 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:39:57.644 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:39:57.683 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:39:57.702 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands()
+13:39:57.732 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands() / SUCCESSFUL
+13:39:57.734 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:39:57.737 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:42:13.168 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:42:13.207 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:42:13.227 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+13:42:13.266 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / SUCCESSFUL
+13:42:13.269 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:42:13.274 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:42:52.802 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:42:52.839 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:42:52.859 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands()
+13:42:52.891 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands() / SUCCESSFUL
+13:42:52.895 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:42:52.898 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:43:30.980 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:43:31.028 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:43:31.051 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands()
+13:43:31.091 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands() / SUCCESSFUL
+13:43:31.094 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:43:31.098 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:44:11.145 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:44:11.182 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:44:11.199 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0()
+13:44:11.228 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+13:44:11.230 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:44:11.233 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:49:16.369 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:49:16.410 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:49:16.427 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0()
+13:49:16.459 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+13:49:16.462 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:49:16.465 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:49:53.567 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:49:53.609 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:49:53.629 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMoreThan2Operands()
+13:49:53.673 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMoreThan2Operands() / FAILED
+13:49:53.684 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:49:53.690 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:50:04.950 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:50:04.995 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:50:05.016 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMoreThan2Operands()
+13:50:05.049 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMoreThan2Operands() / SUCCESSFUL
+13:50:05.053 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:50:05.057 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:51:19.452 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:51:19.488 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:51:19.504 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWithNegativeNumber()
+13:51:19.533 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWithNegativeNumber() / SUCCESSFUL
+13:51:19.535 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:51:19.538 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:51:56.033 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:51:56.072 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:51:56.090 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWithNegativeNumber()
+13:51:56.121 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWithNegativeNumber() / SUCCESSFUL
+13:51:56.123 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:51:56.127 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:52:34.718 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:52:34.761 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:52:34.782 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiply2NegativeNumbers()
+13:52:34.815 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiply2NegativeNumbers() / SUCCESSFUL
+13:52:34.819 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:52:34.823 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+13:53:53.966 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+13:53:54.005 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+13:53:54.022 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNoOperands()
+13:53:54.037 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNoOperands() / SUCCESSFUL
+13:53:54.041 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+13:53:54.057 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:28:27.156 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:28:27.197 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:28:27.214 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyOneOperand()
+15:28:27.230 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyOneOperand() / SUCCESSFUL
+15:28:27.234 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:28:27.248 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:29:24.308 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:29:24.343 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:29:24.359 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNoOperands()
+15:29:24.387 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNoOperands() / SUCCESSFUL
+15:29:24.389 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:29:24.392 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:29:58.418 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:29:58.453 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:29:58.469 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+15:29:58.498 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / FAILED
+15:29:58.507 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:29:58.511 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:37:41.638 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:37:41.672 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:37:41.687 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+15:37:41.723 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / SUCCESSFUL
+15:37:41.726 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:37:41.731 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:38:08.380 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:38:08.418 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:38:08.437 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+15:38:08.474 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / SUCCESSFUL
+15:38:08.478 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:38:08.481 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:38:36.605 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:38:36.644 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:38:36.664 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+15:38:36.698 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / SUCCESSFUL
+15:38:36.700 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:38:36.704 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:39:31.722 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:39:31.758 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:39:31.774 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNumbersWithDecimals()
+15:39:31.806 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNumbersWithDecimals() / FAILED
+15:39:31.817 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:39:31.822 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:40:27.026 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:40:27.064 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:40:27.084 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNumbersWithDecimals()
+15:40:27.118 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNumbersWithDecimals() / FAILED
+15:40:27.128 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:40:27.132 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:40:44.152 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:40:44.199 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:40:44.220 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNumbersWithDecimals()
+15:40:44.256 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNumbersWithDecimals() / SUCCESSFUL
+15:40:44.259 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:40:44.285 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:41:31.625 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:41:31.664 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:41:31.684 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithExponent0()
+15:41:31.723 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithExponent0() / FAILED
+15:41:31.732 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:41:31.736 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:42:33.395 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:42:33.431 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:42:33.448 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithExponent0()
+15:42:33.479 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithExponent0() / SUCCESSFUL
+15:42:33.481 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:42:33.484 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:43:52.124 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:43:52.164 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:43:52.181 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithBase0()
+15:43:52.216 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithBase0() / FAILED
+15:43:52.224 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:43:52.228 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:44:28.374 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:44:28.414 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:44:28.431 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeExponent()
+15:44:28.466 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeExponent() / FAILED
+15:44:28.476 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:44:28.480 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:45:41.009 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:45:41.045 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:45:41.061 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeExponent()
+15:45:41.097 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeExponent() / SUCCESSFUL
+15:45:41.099 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:45:41.102 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:45:51.628 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:45:51.664 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:45:51.684 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBase()
+15:45:51.710 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBase() / SUCCESSFUL
+15:45:51.714 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:45:51.717 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:46:15.769 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:46:15.805 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:46:15.825 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBase()
+15:46:15.862 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBase() / FAILED
+15:46:15.871 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:46:15.874 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:46:30.105 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:46:30.139 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:46:30.154 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBase()
+15:46:30.182 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBase() / SUCCESSFUL
+15:46:30.185 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:46:30.189 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:47:03.113 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:47:03.151 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:47:03.169 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBase()
+15:47:03.203 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBase() / FAILED
+15:47:03.213 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:47:03.216 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:48:22.870 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:48:22.906 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:48:22.923 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseOddExponent()
+15:48:22.960 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseOddExponent() / SUCCESSFUL
+15:48:22.963 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:48:22.966 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:49:07.473 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:49:07.509 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:49:07.528 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseEvenExponent()
+15:49:07.561 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseEvenExponent() / SUCCESSFUL
+15:49:07.566 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:49:07.570 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:49:26.775 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:49:26.811 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:49:26.830 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeExponent()
+15:49:26.862 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeExponent() / SUCCESSFUL
+15:49:26.866 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:49:26.870 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:49:40.463 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:49:40.503 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:49:40.520 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeExponent()
+15:49:40.551 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeExponent() / SUCCESSFUL
+15:49:40.555 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:49:40.558 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:50:50.894 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:50:50.935 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:50:50.953 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOddExponent()
+15:50:50.993 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOddExponent() / FAILED
+15:50:51.004 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:50:51.008 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:51:13.333 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:51:13.377 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:51:13.397 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOddExponent()
+15:51:13.433 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOddExponent() / SUCCESSFUL
+15:51:13.436 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:51:13.441 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:51:19.666 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:51:19.703 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:51:19.720 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOEvenExponent()
+15:51:19.754 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOEvenExponent() / FAILED
+15:51:19.761 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:51:19.766 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:51:33.123 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:51:33.158 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:51:33.179 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOEvenExponent()
+15:51:33.216 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOEvenExponent() / SUCCESSFUL
+15:51:33.220 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:51:33.224 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:54:08.383 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:54:08.419 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:54:08.436 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWithNegativeNumber()
+15:54:08.453 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWithNegativeNumber() / FAILED
+15:54:08.474 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:54:08.477 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+15:54:26.735 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+15:54:26.771 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+15:54:26.786 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWithNegativeNumber()
+15:54:26.801 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWithNegativeNumber() / FAILED
+15:54:26.819 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+15:54:26.822 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:06:00.196 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:06:00.234 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:06:00.254 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWithNegativeNumber()
+17:06:00.273 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWithNegativeNumber() / FAILED
+17:06:00.293 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:06:00.296 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:08:26.868 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:08:26.913 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:08:26.931 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWithNegativeNumber()
+17:08:26.957 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWithNegativeNumber() / FAILED
+17:08:26.967 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:08:26.971 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:10:06.847 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:10:06.887 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:10:06.908 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWith0()
+17:10:06.937 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWith0() / SUCCESSFUL
+17:10:06.940 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:10:06.944 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:10:29.662 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:10:29.714 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:10:29.740 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWith0()
+17:10:29.776 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWith0() / FAILED
+17:10:29.785 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:10:29.790 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:10:58.360 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:10:58.403 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:10:58.424 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorial()
+17:10:58.468 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorial() / FAILED
+17:10:58.477 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:10:58.481 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:11:35.841 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:11:35.883 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:11:35.901 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorial()
+17:11:35.941 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorial() / SUCCESSFUL
+17:11:35.944 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:11:35.948 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:11:51.766 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:11:51.796 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTest
+17:11:51.809 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+17:11:51.839 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+17:11:51.842 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTest / SUCCESSFUL
+17:11:51.848 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:11:59.567 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:11:59.585 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:11:59.602 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+17:11:59.623 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / SUCCESSFUL
+17:11:59.625 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNoOperands()
+17:11:59.626 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNoOperands() / SUCCESSFUL
+17:11:59.627 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0()
+17:11:59.628 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+17:11:59.629 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWith0()
+17:11:59.631 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWith0() / SUCCESSFUL
+17:11:59.631 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiply2NegativeNumbers()
+17:11:59.632 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiply2NegativeNumbers() / SUCCESSFUL
+17:11:59.633 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseEvenExponent()
+17:11:59.634 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseEvenExponent() / SUCCESSFUL
+17:11:59.635 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMoreThan2Operands()
+17:11:59.636 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMoreThan2Operands() / SUCCESSFUL
+17:11:59.637 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands()
+17:11:59.638 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands() / SUCCESSFUL
+17:11:59.638 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+17:11:59.640 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / SUCCESSFUL
+17:11:59.641 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOddExponent()
+17:11:59.644 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOddExponent() / SUCCESSFUL
+17:11:59.644 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNumbersWithDecimals()
+17:11:59.646 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNumbersWithDecimals() / SUCCESSFUL
+17:11:59.646 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWithNegativeNumber()
+17:11:59.648 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWithNegativeNumber() / FAILED
+17:11:59.652 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands()
+17:11:59.655 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands() / SUCCESSFUL
+17:11:59.658 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+17:11:59.675 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+17:11:59.692 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+17:11:59.696 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+17:11:59.697 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+17:11:59.698 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+17:11:59.699 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyOneOperand()
+17:11:59.700 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyOneOperand() / SUCCESSFUL
+17:11:59.701 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers()
+17:11:59.705 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+17:11:59.705 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithExponent0()
+17:11:59.706 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithExponent0() / SUCCESSFUL
+17:11:59.706 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorial()
+17:11:59.707 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorial() / SUCCESSFUL
+17:11:59.708 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWithNegativeNumber()
+17:11:59.708 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWithNegativeNumber() / SUCCESSFUL
+17:11:59.709 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseOddExponent()
+17:11:59.709 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseOddExponent() / SUCCESSFUL
+17:11:59.710 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNegativeNumbers(Integer, Integer, Long)
+17:11:59.728 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] -2, -4, -6
+17:11:59.730 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] -2, -4, -6 / SUCCESSFUL
+17:11:59.731 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] -4, -7, -11
+17:11:59.732 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] -4, -7, -11 / SUCCESSFUL
+17:11:59.806 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [3] -2, -5, -7
+17:11:59.807 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [3] -2, -5, -7 / SUCCESSFUL
+17:11:59.808 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [4] -4, -8, -12
+17:11:59.809 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [4] -4, -8, -12 / SUCCESSFUL
+17:11:59.810 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNegativeNumbers(Integer, Integer, Long) / SUCCESSFUL
+17:11:59.810 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOEvenExponent()
+17:11:59.811 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOEvenExponent() / SUCCESSFUL
+17:11:59.812 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithBase0()
+17:11:59.813 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithBase0() / SUCCESSFUL
+17:11:59.813 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeExponent()
+17:11:59.814 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeExponent() / SUCCESSFUL
+17:11:59.817 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:11:59.819 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:12:53.634 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:12:53.664 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTest
+17:12:53.678 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+17:12:53.709 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+17:12:53.712 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTest / SUCCESSFUL
+17:12:53.718 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:13:00.177 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:13:00.195 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:13:00.213 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+17:13:00.234 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / SUCCESSFUL
+17:13:00.236 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNoOperands()
+17:13:00.237 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNoOperands() / SUCCESSFUL
+17:13:00.238 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0()
+17:13:00.239 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+17:13:00.240 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWith0()
+17:13:00.241 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWith0() / SUCCESSFUL
+17:13:00.242 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiply2NegativeNumbers()
+17:13:00.243 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiply2NegativeNumbers() / SUCCESSFUL
+17:13:00.244 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseEvenExponent()
+17:13:00.246 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseEvenExponent() / SUCCESSFUL
+17:13:00.247 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMoreThan2Operands()
+17:13:00.249 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMoreThan2Operands() / SUCCESSFUL
+17:13:00.250 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands()
+17:13:00.251 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands() / SUCCESSFUL
+17:13:00.252 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+17:13:00.252 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / SUCCESSFUL
+17:13:00.253 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOddExponent()
+17:13:00.256 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOddExponent() / SUCCESSFUL
+17:13:00.257 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNumbersWithDecimals()
+17:13:00.258 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNumbersWithDecimals() / SUCCESSFUL
+17:13:00.259 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWithNegativeNumber()
+17:13:00.260 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWithNegativeNumber() / FAILED
+17:13:00.265 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands()
+17:13:00.267 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands() / SUCCESSFUL
+17:13:00.270 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+17:13:00.287 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+17:13:00.306 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+17:13:00.310 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+17:13:00.311 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+17:13:00.312 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+17:13:00.313 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyOneOperand()
+17:13:00.315 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyOneOperand() / SUCCESSFUL
+17:13:00.316 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers()
+17:13:00.320 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+17:13:00.321 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithExponent0()
+17:13:00.322 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithExponent0() / SUCCESSFUL
+17:13:00.323 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorial()
+17:13:00.324 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorial() / SUCCESSFUL
+17:13:00.325 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWithNegativeNumber()
+17:13:00.326 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWithNegativeNumber() / SUCCESSFUL
+17:13:00.327 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseOddExponent()
+17:13:00.328 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseOddExponent() / SUCCESSFUL
+17:13:00.329 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNegativeNumbers(Integer, Integer, Long)
+17:13:00.347 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] -2, -4, -6
+17:13:00.348 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] -2, -4, -6 / SUCCESSFUL
+17:13:00.350 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] -4, -7, -11
+17:13:00.350 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] -4, -7, -11 / SUCCESSFUL
+17:13:00.430 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [3] -2, -5, -7
+17:13:00.433 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [3] -2, -5, -7 / SUCCESSFUL
+17:13:00.435 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [4] -4, -8, -12
+17:13:00.436 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [4] -4, -8, -12 / SUCCESSFUL
+17:13:00.437 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNegativeNumbers(Integer, Integer, Long) / SUCCESSFUL
+17:13:00.437 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOEvenExponent()
+17:13:00.438 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOEvenExponent() / SUCCESSFUL
+17:13:00.439 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithBase0()
+17:13:00.440 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithBase0() / SUCCESSFUL
+17:13:00.441 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeExponent()
+17:13:00.442 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeExponent() / SUCCESSFUL
+17:13:00.445 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:13:00.447 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:14:13.309 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:14:13.340 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test DateTest
+17:14:13.354 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test testDates()
+17:14:13.396 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test testDates() / SUCCESSFUL
+17:14:13.399 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test DateTest / SUCCESSFUL
+17:14:13.406 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:14:19.700 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:14:19.716 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:14:19.737 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+17:14:19.758 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / SUCCESSFUL
+17:14:19.760 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNoOperands()
+17:14:19.761 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNoOperands() / SUCCESSFUL
+17:14:19.762 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0()
+17:14:19.763 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+17:14:19.765 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWith0()
+17:14:19.766 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWith0() / SUCCESSFUL
+17:14:19.767 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiply2NegativeNumbers()
+17:14:19.768 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiply2NegativeNumbers() / SUCCESSFUL
+17:14:19.769 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseEvenExponent()
+17:14:19.770 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseEvenExponent() / SUCCESSFUL
+17:14:19.771 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMoreThan2Operands()
+17:14:19.772 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMoreThan2Operands() / SUCCESSFUL
+17:14:19.773 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands()
+17:14:19.774 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands() / SUCCESSFUL
+17:14:19.775 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+17:14:19.776 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / SUCCESSFUL
+17:14:19.777 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOddExponent()
+17:14:19.781 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOddExponent() / SUCCESSFUL
+17:14:19.782 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNumbersWithDecimals()
+17:14:19.783 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNumbersWithDecimals() / SUCCESSFUL
+17:14:19.785 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands()
+17:14:19.787 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands() / SUCCESSFUL
+17:14:19.791 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+17:14:19.810 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+17:14:19.829 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+17:14:19.833 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+17:14:19.834 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+17:14:19.835 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+17:14:19.836 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyOneOperand()
+17:14:19.837 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyOneOperand() / SUCCESSFUL
+17:14:19.838 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers()
+17:14:19.843 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+17:14:19.844 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithExponent0()
+17:14:19.845 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithExponent0() / SUCCESSFUL
+17:14:19.846 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorial()
+17:14:19.846 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorial() / SUCCESSFUL
+17:14:19.847 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWithNegativeNumber()
+17:14:19.848 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWithNegativeNumber() / SUCCESSFUL
+17:14:19.849 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseOddExponent()
+17:14:19.849 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseOddExponent() / SUCCESSFUL
+17:14:19.850 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNegativeNumbers(Integer, Integer, Long)
+17:14:19.867 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] -2, -4, -6
+17:14:19.869 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] -2, -4, -6 / SUCCESSFUL
+17:14:19.870 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] -4, -7, -11
+17:14:19.871 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] -4, -7, -11 / SUCCESSFUL
+17:14:19.953 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [3] -2, -5, -7
+17:14:19.954 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [3] -2, -5, -7 / SUCCESSFUL
+17:14:19.955 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [4] -4, -8, -12
+17:14:19.957 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [4] -4, -8, -12 / SUCCESSFUL
+17:14:19.957 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNegativeNumbers(Integer, Integer, Long) / SUCCESSFUL
+17:14:19.958 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOEvenExponent()
+17:14:19.960 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOEvenExponent() / SUCCESSFUL
+17:14:19.961 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithBase0()
+17:14:19.962 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithBase0() / SUCCESSFUL
+17:14:19.963 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeExponent()
+17:14:19.963 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeExponent() / SUCCESSFUL
+17:14:19.966 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:14:19.967 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:16:06.657 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:16:06.689 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:16:06.702 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+17:16:06.741 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+17:16:06.776 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+17:16:06.780 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+17:16:06.781 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+17:16:06.782 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+17:16:06.785 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:16:06.785 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
+17:16:16.176 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test JUnit Jupiter
+17:16:16.198 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test CalculatorIT
+17:16:16.217 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMaxIntegerWith2()
+17:16:16.252 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMaxIntegerWith2() / SUCCESSFUL
+17:16:16.253 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNoOperands()
+17:16:16.254 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNoOperands() / SUCCESSFUL
+17:16:16.255 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWith0()
+17:16:16.256 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWith0() / SUCCESSFUL
+17:16:16.257 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorialWith0()
+17:16:16.258 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorialWith0() / SUCCESSFUL
+17:16:16.259 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiply2NegativeNumbers()
+17:16:16.260 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiply2NegativeNumbers() / SUCCESSFUL
+17:16:16.260 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseEvenExponent()
+17:16:16.262 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseEvenExponent() / SUCCESSFUL
+17:16:16.263 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyMoreThan2Operands()
+17:16:16.264 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyMoreThan2Operands() / SUCCESSFUL
+17:16:16.265 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNoOperands()
+17:16:16.265 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNoOperands() / SUCCESSFUL
+17:16:16.266 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddOneOperands()
+17:16:16.267 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddOneOperands() / SUCCESSFUL
+17:16:16.267 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOddExponent()
+17:16:16.273 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOddExponent() / SUCCESSFUL
+17:16:16.273 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyNumbersWithDecimals()
+17:16:16.275 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyNumbersWithDecimals() / SUCCESSFUL
+17:16:16.278 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddMoreThan2Operands()
+17:16:16.280 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddMoreThan2Operands() / SUCCESSFUL
+17:16:16.285 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNumbersGivenOperand0(int, int, long)
+17:16:16.309 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] 0, 2, 2
+17:16:16.331 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] 0, 2, 2 / SUCCESSFUL
+17:16:16.336 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] 2, 0, 2
+17:16:16.337 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] 2, 0, 2 / SUCCESSFUL
+17:16:16.337 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNumbersGivenOperand0(int, int, long) / SUCCESSFUL
+17:16:16.339 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyOneOperand()
+17:16:16.340 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyOneOperand() / SUCCESSFUL
+17:16:16.341 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddLargeNumbers()
+17:16:16.346 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddLargeNumbers() / SUCCESSFUL
+17:16:16.347 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithExponent0()
+17:16:16.348 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithExponent0() / SUCCESSFUL
+17:16:16.348 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculateFactorial()
+17:16:16.349 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculateFactorial() / SUCCESSFUL
+17:16:16.350 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldMultiplyWithNegativeNumber()
+17:16:16.350 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldMultiplyWithNegativeNumber() / SUCCESSFUL
+17:16:16.351 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseOddExponent()
+17:16:16.353 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseOddExponent() / SUCCESSFUL
+17:16:16.354 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldAddNegativeNumbers(Integer, Integer, Long)
+17:16:16.376 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [1] -2, -4, -6
+17:16:16.377 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [1] -2, -4, -6 / SUCCESSFUL
+17:16:16.379 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [2] -4, -7, -11
+17:16:16.380 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [2] -4, -7, -11 / SUCCESSFUL
+17:16:16.459 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [3] -2, -5, -7
+17:16:16.461 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [3] -2, -5, -7 / SUCCESSFUL
+17:16:16.462 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test [4] -4, -8, -12
+17:16:16.463 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test [4] -4, -8, -12 / SUCCESSFUL
+17:16:16.463 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldAddNegativeNumbers(Integer, Integer, Long) / SUCCESSFUL
+17:16:16.464 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeBaseNegativeOEvenExponent()
+17:16:16.465 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeBaseNegativeOEvenExponent() / SUCCESSFUL
+17:16:16.465 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowWithBase0()
+17:16:16.466 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowWithBase0() / SUCCESSFUL
+17:16:16.466 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Starting test shouldCalculatePowNegativeExponent()
+17:16:16.467 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test shouldCalculatePowNegativeExponent() / SUCCESSFUL
+17:16:16.470 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test CalculatorIT / SUCCESSFUL
+17:16:16.470 [main] INFO  com.endava.extensions.CustomTestExecutionListener - Finishing test JUnit Jupiter / SUCCESSFUL
